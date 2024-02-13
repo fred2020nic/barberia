@@ -28,6 +28,8 @@ include "Includes/templates/navbar.php";
                             Somos la mejor peluquería del Mundo, te queremos bien !!
                             <br>
                             Acá te puedes sentir muy cómodo.
+                            <br>
+                           Confifguro web 2024
                         </p>
                     </div>
                 </div>
