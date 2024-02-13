@@ -32,6 +32,8 @@ include "Includes/templates/navbar.php";
                            Confifguro web 2024
 
                            git-ignore - probar despues 
+
+                           con archivo de conexion momentenanbo
                         </p>
                     </div>
                 </div>
