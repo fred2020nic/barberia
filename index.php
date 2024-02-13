@@ -30,6 +30,8 @@ include "Includes/templates/navbar.php";
                             Acá te puedes sentir muy cómodo.
                             <br>
                            Confifguro web 2024
+
+                           git-ignore
                         </p>
                     </div>
                 </div>
