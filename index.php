@@ -31,7 +31,7 @@ include "Includes/templates/navbar.php";
                             <br>
                            Confifguro web 2024
 
-                           git-ignore
+                           git-ignore - probar despues 
                         </p>
                     </div>
                 </div>
