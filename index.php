@@ -34,6 +34,7 @@ include "Includes/templates/navbar.php";
                            git-ignore - probar despues 
 
                            con archivo de conexion momentenanbo
+                           a privado
                         </p>
                     </div>
                 </div>
