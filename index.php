@@ -35,6 +35,8 @@ include "Includes/templates/navbar.php";
 
                            con archivo de conexion momentenanbo
                            a privado
+
+                           13-02-2024 probando ya elimando el ssh y poniendo otro
                         </p>
                     </div>
                 </div>
